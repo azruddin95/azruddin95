@@ -23,18 +23,17 @@ I am a self-taught 📚 Android App Developer ( Kotlin, Jetpack Compose & Automa
   <img align="center" alt="azruddin-palasara | Gmail" width="32px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 </p>
-
-<a href="https://www.linkedin.com/in/rahnumasharib/">
+<a href="http://www.linkedin.com/in/azruddin-palasara-3b5312296" target="_blank">
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
 </a>
 
-<a href="mailto:Rahnuma.sharib786@gmail.com">
+<a href="mailto:palasaraazruddin5@gmail.com">
   <img
     alt="Gmail"
-    src="https://img.shields.io/badge/gmail-100000?style=for-the-badge&logo=github&logoColor=white"
+    src="https://img.shields.io/badge/gmail-100000?style=for-the-badge&logo=gmail&logoColor=white"
   />
 </a>
 
