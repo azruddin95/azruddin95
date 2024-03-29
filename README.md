@@ -6,7 +6,7 @@ I am a self-taught 📚 Android App Developer ( Kotlin, Jetpack Compose & Automa
 - 🔭 I’m currently working on [Quba Infotech](https://https://qubainfotech.com//)
 - 👯 I’m looking to collaborate on Android, IOS & Flutter
 - 🌱 Learning to develop robust Android Applications
-- 💬 Ask me about Android, Java, Kotlin, Python, Blockchain and Bitcoin Protocol.
+- 💬 Ask me about Android, Java, Kotlin,Html,Bootstrap,Laravel,Php,Unity.
 - 🤔 I’m looking for help with IOS
 - 💬 Ask me about Anything 
 - 😄 Pronouns: He/Him
