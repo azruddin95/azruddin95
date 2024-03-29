@@ -74,6 +74,17 @@ I am a self-taught 📚 Android App Developer ( Kotlin, Jetpack Compose & Automa
 <img src="https://komarev.com/ghpvc/?username=DeveloperRahnuma" alt="DeveloperRahnuma"/>
 </p>
 
+  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=DeveloperRahnuma&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperRahnuma&layout=compact&theme=tokyonight" alt="languages" height="165">
+</p>
+
+<p align=center>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=DeveloperRahnuma&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"></img>
+</p>
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
