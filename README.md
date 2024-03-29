@@ -36,7 +36,7 @@ I am a self-taught 📚 Android App Developer ( Kotlin, Jetpack Compose & Automa
     src="https://img.shields.io/badge/gmail-100000?style=for-the-badge&logo=gmail&logoColor=white"
   />
 </a>
-<a href="https://github.com/DeveloperRahnuma">
+<a href="https://github.com/azruddin95">
   <img
     alt="GitHub"
     src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
