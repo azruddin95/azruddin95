@@ -11,6 +11,25 @@ I am a self-taught 📚 Android App Developer ( Kotlin, Jetpack Compose & Automa
 - 💬 Ask me about Anything 
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: My socials mentioned below 👇
+
+### My Online Presence 👇
+
+<!-- <p>
+
+</p> -->
+  
+ <p align="left">
+<a href="https://www.linkedin.com/in/srivathsan-venkateswaran-503193190" target="_blank">
+  <img align="center" alt="srivathsanvenkateswaran | Linkedin" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://twitter.com/SrivathsanVKV" target="_blank">
+  <img align="center" alt="srivathsanvenkateswaran | Twitter" width="31px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+</a> &nbsp;&nbsp;
+<a href="mailto:srivathsanvenkateswaran@gmail.com">
+  <img align="center" alt="srivathsanvenkateswaran | Gmail" width="32px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a> &nbsp;&nbsp;
+<p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
