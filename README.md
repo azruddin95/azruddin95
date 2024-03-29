@@ -65,25 +65,6 @@ I am a self-taught 📚 Android App Developer ( Kotlin, Jetpack Compose & Automa
  ![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 
-  ### 📈 Github Stats
-<!-- status codes -->
-<p>
-<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=Github%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DDeveloperRahnuma">
-</a>
-&nbsp; &nbsp;
-<img src="https://komarev.com/ghpvc/?username=DeveloperRahnuma" alt="DeveloperRahnuma"/>
-</p>
-
-  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DeveloperRahnuma&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperRahnuma&layout=compact&theme=tokyonight" alt="languages" height="165">
-</p>
-
-<p align=center>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=DeveloperRahnuma&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"></img>
-</p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
