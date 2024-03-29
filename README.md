@@ -62,7 +62,9 @@ I am a self-taught 📚 Android App Developer ( Kotlin, Jetpack Compose & Automa
  ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
  ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
  ![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-
+ 
+ #### other   
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
 
 <h3 align="left">Languages and Tools:</h3>
