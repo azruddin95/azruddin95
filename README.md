@@ -1,9 +1,10 @@
 
 Hi 👋, I'm Azruddin
-A passionate mobile developer from Pakistan
-zubair340
 
-🔭 I’m currently working on CubiLock
+A passionate mobile developer from India
+azruddin95
+
+🔭 I’m currently working on qubainfotech
 
 🌱 I’m currently learning jetpack compose & enterprise mobility
 
