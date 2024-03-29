@@ -7,15 +7,9 @@
 
 - 🌱 I’m currently learning **jetpack compose & enterprise mobility**
 
-- 👯 I’m looking to collaborate on [Flogs](https://github.com/zubairehman/Flogs)
-
-- 👨‍💻 All of my projects are available at [http://zubairehman.surge.sh/#/](http://zubairehman.surge.sh/#/)
-
-- 📝 I regularly write articles on [https://medium.com/@zubairehman](https://medium.com/@zubairehman)
-
 - 💬 Ask me about **android, flutter and enterprise mobility**
 
-- 📫 How to reach me **zubairehman.work@gmail.com**
+- 📫 How to reach me ****
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/Azruddin/](https://www.linkedin.com/in/azruddin-palasara-3b5312296/)
 
