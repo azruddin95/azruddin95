@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [CubiLock](https://https://qubainfotech.com//)
+- 🔭 I’m currently working on [Quba Infotech](https://https://qubainfotech.com//)
 
 - 🌱 I’m currently learning **jetpack compose & enterprise mobility**
 
