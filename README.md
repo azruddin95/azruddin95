@@ -1,20 +1,17 @@
-<h1 align="center">Hi 👋, I'm Azruddin</h1>
-<h3 align="center">A passionate mobile developer from India</h3>
+#  Hi there! 👋 This is Azruddin 👨‍💻
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&lines=%E2%9C%93+Android+developer;%E2%9C%93+Coading+Enthusiast;%E2%9C%93+Flutter+Developer;%E2%9C%93+Blogger;%E2%9C%93+YouTuber;%E2%9C%93)](https://git.io/typing-svg)
 
-
+I am a self-taught 📚 Android App Developer ( Kotlin, Jetpack Compose & Automation Pipeline) . I love develop 👨‍💻 High quality ✏️ apps for Android platform. I have been doing Android Development for more than four years now as a freelancer and full time developer.
 
 - 🔭 I’m currently working on [Quba Infotech](https://https://qubainfotech.com//)
-
-- 🌱 I’m currently learning **jetpack compose & enterprise mobility**
-
-- 💬 Ask me about **android, flutter and enterprise mobility**
-
-- 📫 How to reach me ****
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/Azruddin/](https://www.linkedin.com/in/azruddin-palasara-3b5312296/)
-
-- ⚡ Fun fact **I think I am funny 😂**
-
+- 🌱 I’m currently learning IOS, swift
+- 👯 I’m looking to collaborate on Android, IOS & Flutter
+- 🌱 Learning to develop robust Android Applications
+- 💬 Ask me about Android, Java, Kotlin, Python, Blockchain and Bitcoin Protocol.
+- 🤔 I’m looking for help with IOS
+- 💬 Ask me about Anything 
+- 😄 Pronouns: He/Him
+- 📫 How to reach me: My socials mentioned below 👇
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
