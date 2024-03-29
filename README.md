@@ -1,5 +1,5 @@
 #  Hi there! 👋 This is Azruddin 👨‍💻
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&lines=%E2%9C%93+Android+developer;%E2%9C%93+Coading+Enthusiast;%E2%9C%93+Flutter+Developer;%E2%9C%93+Blogger;%E2%9C%93+YouTuber;%E2%9C%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&lines=%E2%9C%93+Android+developer;%E2%9C%93+Coading+Enthusiast;%E2%9C%93+Flutter+Developer;%E2%9C%93+Blogger;%E2%9C%93)](https://git.io/typing-svg)
 
 I am a self-taught 📚 Android App Developer ( Kotlin, Jetpack Compose & Automation Pipeline) . I love develop 👨‍💻 High quality ✏️ apps for Android platform. I have been doing Android Development for more than four years now as a freelancer and full time developer.
 
