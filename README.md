@@ -12,6 +12,7 @@ I am a self-taught 📚 Android App Developer ( Kotlin, Jetpack Compose & Automa
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: My socials mentioned below 👇
 
+
 ### My Online Presence 👇
 
 <!-- <p>
@@ -29,6 +30,37 @@ I am a self-taught 📚 Android App Developer ( Kotlin, Jetpack Compose & Automa
   <img align="center" alt="srivathsanvenkateswaran | Gmail" width="32px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <p>
+
+
+
+<a href="https://www.linkedin.com/in/rahnumasharib/">
+  <img
+    alt="Linkedin"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>
+<a href="https://twitter.com/SharibRahnuma">
+  <img
+    alt="Twitter"
+    src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"
+  />
+</a>
+<a href="https://github.com/DeveloperRahnuma">
+  <img
+    alt="GitHub"
+    src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+  />
+</a>
+
+<a href="mailto:Rahnuma.sharib786@gmail.com">
+  <img
+    alt="Gmail"
+    src="https://img.shields.io/badge/gmail-100000?style=for-the-badge&logo=github&logoColor=white"
+  />
+</a>
+
+
+</p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
