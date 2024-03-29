@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Azruddin</h1>
 <h3 align="center">A passionate mobile developer from India</h3>
 
-<p align="center"> <a href="https://twitter.com/zubair340" target="blank"><img src="https://img.shields.io/twitter/follow/zubair340?logo=twitter&style=for-the-badge" alt="zubair340" /></a> </p>
+
 
 - 🔭 I’m currently working on [CubiLock](https://https://qubainfotech.com//)
 
