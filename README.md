@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **zubairehman.work@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/zubairehman/](https://www.linkedin.com/in/azruddin-palasara-3b5312296/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/Azruddin/](https://www.linkedin.com/in/azruddin-palasara-3b5312296/)
 
 - ⚡ Fun fact **I think I am funny 😂**
 
