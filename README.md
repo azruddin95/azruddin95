@@ -56,6 +56,8 @@ I am a self-taught 📚 Android App Developer ( Kotlin, Jetpack Compose & Automa
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<img alt="React Logo" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+
 
 #### Mobile App Development
 
@@ -64,6 +66,7 @@ I am a self-taught 📚 Android App Developer ( Kotlin, Jetpack Compose & Automa
  ![image](https://img.shields.io/badge/Kotlin-FF6C37?style=for-the-badge&logo=Kotlin&logoColor=white)
  ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
  ![image](https://img.shields.io/badge/Android-0175C2?style=for-the-badge&logo=android&logoColor=white)
+ <img alt="Node.js Logo" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
 
  #### Backend Development
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -93,6 +96,9 @@ I am a self-taught 📚 Android App Developer ( Kotlin, Jetpack Compose & Automa
 ![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+
+
 
 
 
