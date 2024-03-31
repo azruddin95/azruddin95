@@ -4,8 +4,9 @@
 I am a self-taught 📚 Android App Developer ( Kotlin, Jetpack Compose & Automation Pipeline) . I love develop 👨‍💻 High quality ✏️ apps for Android platform. I have been doing Android Development for more than four years now as a freelancer and full time developer.
 
 - 🔭 I’m currently working on [Quba Infotech](https://https://qubainfotech.com//)
-- 👯 I’m looking to collaborate on Android, IOS & Flutter
-- 🌱 Learning to develop robust Android Applications
+- 🌱 Growing and Learning Daily
+- 💖 Developing App and Websites
+- ☁  Cloud Enthusiast
 - 💬 Ask me about Flutter, Dart, Android, Java, Kotlin, Html, Bootstrap, Laravel, Php.
 - 🤔 I’m looking for help with IOS
 - 💬 Ask me about Anything 
