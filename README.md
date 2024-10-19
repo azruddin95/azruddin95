@@ -13,13 +13,15 @@ I am a self-taught 📚 Flutter App Developer. I love to develop 👨‍💻 hig
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: My socials are mentioned below 👇
 
+<img align="center" alt="Coding" width="400" src="https://github.com/Mirzaazmath/threads_clone/blob/main/assets/output/coding.gif">
+
 ### My Online Presence 👇
 
 <p align="left">
-<a href="http://www.linkedin.com/in/azruddin-palasara-3b5312296" target="_blank">
+<a href="https://www.linkedin.com/in/azruddin-palasara-650196327" target="_blank">
   <img align="center" alt="azruddin-palasara | LinkedIn" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
-<a href="mailto:palasaraazruddin5@gmail.com">
+<a href="mailto:azruddin.connect@gmail.com">
   <img align="center" alt="azruddin-palasara | Gmail" width="32px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/azruddin95">
@@ -28,11 +30,11 @@ I am a self-taught 📚 Flutter App Developer. I love to develop 👨‍💻 hig
 </p>
 
 <p align="left">
-<a href="http://www.linkedin.com/in/azruddin-palasara-3b5312296" target="_blank">
+<a href="https://www.linkedin.com/in/azruddin-palasara-650196327" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
 </a>
 
-<a href="mailto:palasaraazruddin5@gmail.com">
+<a href="mailto:azruddin.connect@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/gmail-100000?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -81,6 +83,3 @@ I am a self-taught 📚 Flutter App Developer. I love to develop 👨‍💻 hig
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### Coding Gif
-<img align="right" alt="Coding" width="400" src="https://github.com/Mirzaazmath/threads_clone/blob/main/assets/output/coding.gif">
