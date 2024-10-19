@@ -9,6 +9,7 @@ I am a self-taught 📚 Flutter App Developer . I love develop 👨‍💻 High 
 - ☁  Cloud Enthusiast
 - 💬 Ask me about Flutter, Dart, Android, Java, Kotlin, Html, Bootstrap, Laravel, Php.
 - 🤔 I’m looking for help with IOS
+- ⚡ Fun fact Flutter = Future
 - 💬 Ask me about Anything 
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: My socials mentioned below 👇
