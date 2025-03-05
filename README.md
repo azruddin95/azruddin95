@@ -15,6 +15,9 @@ I am a self-taught 📚 Flutter App Developer. I love to develop 👨‍💻 hig
 ### A passionate Flutter developer from India
 <img align="center" alt="Coding" width="400" src="https://github.com/Mirzaazmath/threads_clone/blob/main/assets/output/coding.gif">
 
+<p align="center">
+  <img src="./assets/typing.gif" alt="Typing Animation">
+</p>
 
 
 <p align="left">
