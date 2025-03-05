@@ -7,6 +7,8 @@ I am a self-taught 📚 Flutter App Developer. I love to develop 👨‍💻 hig
 <p align="center">
   <img src="./typing.gif" alt="Typing Animation">
 </p>
+
+
 - 🔭 I’m currently working at [Quba Infotech](https://qubainfotech.com)
 - 🌱 Growing and learning daily
 - 💖 Passionate about developing apps and websites
