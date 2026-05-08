@@ -1,90 +1,145 @@
-# Hi there! 👋 This is Azruddin 👨‍💻
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&lines=%E2%9C%93+Android+Developer;%E2%9C%93+Coding+Enthusiast;%E2%9C%93+Flutter+Developer;%E2%9C%93+Blogger;%E2%9C%93)](https://git.io/typing-svg)
+<div align="center">
 
-I am a self-taught 📚 Flutter App Developer. I love to develop 👨‍💻 high-quality ✏️ cross-platform apps. I have been doing Flutter Development for more than four years now, both as a freelancer and a full-time developer.
+# Hi 👋, I'm Azruddin Palasara
 
+### Flutter Developer • Mobile App Engineer • UI/UX Enthusiast
 
-<p align="center">
-  <img src="./typing.gif" alt="Typing Animation">
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Flutter+Developer;Cross+Platform+App+Developer;Building+Modern+Mobile+Experiences;Passionate+About+Clean+UI+%26+Scalable+Apps" />
 
+</div>
 
-- 🔭 I’m currently working at [Quba Infotech](https://qubainfotech.com)
-- 🌱 Growing and learning daily
-- 💖 Passionate about developing apps and websites
-- ☁ Cloud Enthusiast
-- 💬 Ask me about Flutter, Dart, Android, Java, Kotlin, HTML, Bootstrap, Laravel, PHP
-- 🤔 I’m looking for help with iOS development
-- ⚡ Fun fact: Flutter = Future!
-- 📫 How to reach me: My socials are mentioned below 👇
-### A passionate Flutter developer from India
-<img align="center" alt="Coding" width="400" src="https://github.com/Mirzaazmath/threads_clone/blob/main/assets/output/coding.gif">
+---
 
+## 🚀 About Me
 
+I'm a passionate self-taught Flutter Developer from India 🇮🇳 with more than 4 years of experience building high-quality cross-platform applications.
 
+I focus on:
 
-<p align="left">
-  <a href="https://github.com/azruddin95" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+- 📱 Scalable Flutter Applications
+- ✨ Clean UI/UX Experiences
+- ⚡ Performance Optimized Apps
+- 🔥 Firebase Integration
+- 🌐 REST API Integration
+- 🧠 State Management Architecture
+- 🚀 Production Ready Mobile Apps
 
-### My Online Presence 👇
+Currently working at  
+### 🏢 Quba Infotech
 
-<p align="left">
-<a href="https://www.linkedin.com/in/azruddin-palasara-650196327" target="_blank">
-  <img align="center" alt="azruddin-palasara | LinkedIn" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href="mailto:azruddin.connect@gmail.com">
-  <img align="center" alt="azruddin-palasara | Gmail" width="32px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
-</p>
+---
 
-<p align="left">
-<a href="https://www.linkedin.com/in/azruddin-palasara-650196327" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
-</a>
+## 💫 Current Focus
 
-<a href="mailto:azruddin.connect@gmail.com">
-  <img alt="Gmail" src="https://img.shields.io/badge/gmail-100000?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+- 🔭 Building scalable Flutter applications
+- 🌱 Learning advanced app architecture & iOS development
+- 💡 Exploring modern UI systems and animations
+- ☁ Firebase & Cloud integrations
+- 📦 Production deployment workflows
+- 🚀 App performance optimization
+
+---
+
+# 🌐 Connect With Me
+
+<div align="left">
 
 <a href="https://github.com/azruddin95">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<a href="https://www.linkedin.com/in/azruddin-palasara-650196327">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:azruddin.connect@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+# 🛠 Tech Stack
+
+## 📱 Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=azruddin95&label=PROFILE+VIEWS&&color=green)
+---
 
-------------------
-### Website Development:
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+## 🔥 Backend & Services
 
-### Mobile App Development:
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-FF6C37?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-0175C2?style=for-the-badge&logo=android&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,mysql,postman" />
+</p>
 
-### Backend Development:
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+---
 
-### Database:
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+## ⚙ Tools & Platforms
 
-### IDEs and Editors:
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode" />
+</p>
 
-### Version Control:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+---
 
-### Development Services:
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=azruddin95&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=azruddin95&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azruddin95&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=azruddin95&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
+
+</div>
+
+---
+
+# ⚡ Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=azruddin95&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=azruddin95&style=for-the-badge&color=0e75b6)
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ “Flutter Is Not Just A Framework — It's A Future.” ✨
+
+</div>
