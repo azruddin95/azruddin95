@@ -27,7 +27,7 @@ I specialize in:
 - 📦 End-to-End Product Development
 - 👨‍💻 Managing Multiple Client Projects Efficiently
 
-At Quba Infotech, I contribute to building innovative software solutions, mobile applications, enterprise systems, and scalable digital products for various industries. :contentReference[oaicite:2]{index=2}
+At Quba Infotech, I contribute to building innovative software solutions, mobile applications, enterprise systems, and scalable digital products for various industries.
 
 I have strong experience handling complete projects independently — including architecture planning, API integration, state management, clean code implementation, testing, deployment, and ongoing maintenance.
 
