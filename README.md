@@ -12,17 +12,23 @@
 
 ## 🚀 About Me
 
-I'm a passionate self-taught Flutter Developer from India 🇮🇳 with more than 4 years of experience building high-quality cross-platform applications.
+I'm a passionate self-taught Flutter Developer from India 🇮🇳 with more than 4 years of experience building scalable, production-ready mobile applications.
 
-I focus on:
+Currently working as a **Team Lead at Quba Infotech**, where I manage development workflows, lead project execution, coordinate with team members, and handle end-to-end application development.
 
-- 📱 Scalable Flutter Applications
-- ✨ Clean UI/UX Experiences
-- ⚡ Performance Optimized Apps
-- 🔥 Firebase Integration
-- 🌐 REST API Integration
-- 🧠 State Management Architecture
-- 🚀 Production Ready Mobile Apps
+I specialize in:
+
+- 📱 Cross-Platform Flutter Applications
+- 🧠 Project Architecture & Workflow Management
+- 👨‍💻 Team Leadership & Task Coordination
+- ⚡ Scalable & Clean Code Practices
+- 🔥 REST API & Firebase Integration
+- 🎨 Modern UI/UX Implementation
+- 🚀 Production Deployment & Optimization
+
+I have experience handling complete project lifecycles independently — from planning and architecture to development, testing, deployment, and maintenance.
+
+Passionate about building high-quality digital products with strong performance, clean design, and scalable architecture.
 
 Currently working at  
 ### 🏢 Quba Infotech
