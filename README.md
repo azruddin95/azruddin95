@@ -12,23 +12,26 @@
 
 ## 🚀 About Me
 
-I'm a passionate self-taught Flutter Developer from India 🇮🇳 with more than 4 years of experience building scalable, production-ready mobile applications.
+I'm a passionate self-taught Flutter Developer from India 🇮🇳 with more than 4 years of experience building scalable, production-ready mobile applications and modern digital products.
 
-Currently working as a **Team Lead at Quba Infotech**, where I manage development workflows, lead project execution, coordinate with team members, and handle end-to-end application development.
+Currently working as a **Team Lead at** [Quba Infotech](https://www.qubainfotech.com/?utm_source=chatgpt.com), where I lead development workflows, manage project execution, coordinate teams, and handle complete product development lifecycles from planning to deployment. :contentReference[oaicite:1]{index=1}
 
 I specialize in:
 
-- 📱 Cross-Platform Flutter Applications
-- 🧠 Project Architecture & Workflow Management
-- 👨‍💻 Team Leadership & Task Coordination
-- ⚡ Scalable & Clean Code Practices
+- 📱 Cross-Platform Flutter Application Development
+- 🧠 Team Leadership & Workflow Management
+- ⚡ Scalable Mobile Architecture
 - 🔥 REST API & Firebase Integration
 - 🎨 Modern UI/UX Implementation
 - 🚀 Production Deployment & Optimization
+- 📦 End-to-End Product Development
+- 👨‍💻 Managing Multiple Client Projects Efficiently
 
-I have experience handling complete project lifecycles independently — from planning and architecture to development, testing, deployment, and maintenance.
+At Quba Infotech, I contribute to building innovative software solutions, mobile applications, enterprise systems, and scalable digital products for various industries. :contentReference[oaicite:2]{index=2}
 
-Passionate about building high-quality digital products with strong performance, clean design, and scalable architecture.
+I have strong experience handling complete projects independently — including architecture planning, API integration, state management, clean code implementation, testing, deployment, and ongoing maintenance.
+
+Passionate about building high-performance applications with clean architecture, smooth user experiences, and scalable development practices.
 
 Currently working at  
 ### 🏢 Quba Infotech
